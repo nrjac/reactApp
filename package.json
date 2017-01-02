@@ -1,0 +1,28 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "helloworld with reactjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "keywords": [
+    "reactapp"
+  ],
+  "author": "Niraj",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrjac/reactApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nrjac/reactApp/issues"
+  },
+  "homepage": "https://github.com/nrjac/reactApp#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
